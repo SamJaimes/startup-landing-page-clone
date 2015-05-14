@@ -609,3 +609,7 @@ ol, ul {
   font-weight: 300;
   color: #838994;
 }
+
+ul {
+  padding: 0;
+}
